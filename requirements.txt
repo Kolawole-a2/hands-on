@@ -1,0 +1,11 @@
+pandas
+pycaret[full]
+streamlit
+google-generativeai
+openai
+requests
+python-dotenv
+scikit-learn
+matplotlib
+seaborn
+
